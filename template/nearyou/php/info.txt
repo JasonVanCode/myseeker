@@ -1,0 +1,1 @@
+{"dev":[{"platform":"Win32","browser":"Chrome\/79.0.3945.117","cores":"8","ram":"8","vendor":"Google Inc.","render":"ANGLE (Intel(R) HD Graphics 630 Direct3D11 vs_5_0 ps_5_0)","ip":"127.0.0.1","ht":"864","wd":"1536","os":"Win64"}]}
